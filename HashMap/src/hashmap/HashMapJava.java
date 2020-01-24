@@ -1,18 +1,16 @@
 
 package hashmap;
 
-import java.util.Map;
+import java.util.HashMap;
 
-public class HashMap {
+public class HashMapJava {
 
     public static void main (String args[]){
-              
-             Map<String,String> example;
-             example = (Map<String, String>) new HashMap();
-              
-              
+        
+              HashMap<String, String> example = new HashMap<String, String>();
+                      
               /*
-              * Vamos adicionar alguns valores a nossa lista
+              * Vamos adicionar alguns valores a lista
               * */
              example.put( "K1", new String( "V1" ));
              example.put( "K2", new String( "V2" ));
@@ -20,7 +18,7 @@ public class HashMap {
              example.put( "K4", new String( "V4" ));
              example.put( "K5", new String( "V5" ));
               
-             String keyToSearch = "K1";        
+             String keyToSearch = "K3";        
               
               
              if ( example.containsKey( keyToSearch ) ) {
