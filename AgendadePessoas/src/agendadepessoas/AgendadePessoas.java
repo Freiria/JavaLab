@@ -1,5 +1,8 @@
 package agendadepessoas;
 
+//Author: Allan Freiria
+//Email: allanfreiria@afreiria.com
+
 import java.util.ArrayList;
 
 public class AgendadePessoas {

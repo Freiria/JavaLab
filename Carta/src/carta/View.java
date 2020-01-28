@@ -1,6 +1,8 @@
 
 
 package carta;
+//Author: Allan Freiria
+//Email: allanfreiria@afreiria.com
 
 import java.util.Scanner;
 

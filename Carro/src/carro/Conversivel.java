@@ -1,5 +1,7 @@
 
 package carro;
+//Author: Allan Freiria
+//Email: allanfreiria@afreiria.com
 
 public class Conversivel extends Carro{
     String tipo;

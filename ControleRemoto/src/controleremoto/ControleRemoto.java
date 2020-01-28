@@ -1,5 +1,7 @@
 
 package controleremoto;
+//Author: Allan Freiria
+//Email: allanfreiria@afreiria.com
 
 public class ControleRemoto {
 

@@ -1,5 +1,6 @@
 package agendadepessoas;
-
+//Author: Allan Freiria
+//Email: allanfreiria@afreiria.com
 public class Pessoa {
     
     private String nome;

@@ -1,6 +1,9 @@
 
 package calculator;
 
+//Author: Allan Freiria
+//Email: allanfreiria@afreiria.com
+
 public class JCalc extends javax.swing.JFrame {
 
     private String operacao;
