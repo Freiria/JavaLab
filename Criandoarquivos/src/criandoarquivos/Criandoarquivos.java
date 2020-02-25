@@ -26,7 +26,7 @@ public class Criandoarquivos {
 
         arquivo.close();
 
-        System.out.printf("\nTabuada do %d foi gravada com sucesso em \"d:\\tabuada.txt\".\n", n);
+        System.out.printf("\nTabuada do %d foi gravada com sucesso em \"c:\\tabuada.txt\".\n", n);
         
     }
     
